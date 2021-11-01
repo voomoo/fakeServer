@@ -19,26 +19,6 @@
       "key": 4,
       "value": "khulna",
       "text": "Khulna"
-    },
-    {
-      "key": 5,
-      "value": "mymensingh",
-      "text": "Mymensingh"
-    },
-    {
-      "key": 6,
-      "value": "rajshahi",
-      "text": "Rajshahi"
-    },
-    {
-      "key": 7,
-      "value": "rangpur",
-      "text": "Rangpur"
-    },
-    {
-      "key": 8,
-      "value": "sylhet",
-      "text": "Sylhet"
     }
   ],
   "barishal": [
@@ -87,54 +67,6 @@
       "key": 2,
       "value": "khulna",
       "text": "Khulna"
-    }
-  ],
-  "mymensingh": [
-    {
-      "key": 1,
-      "value": "jamalpur",
-      "text": "Jamalpur"
-    },
-    {
-      "key": 2,
-      "value": "sherpur",
-      "text": "Sherpur"
-    }
-  ],
-  "rajshahi": [
-    {
-      "key": 1,
-      "value": "natore",
-      "text": "Natore"
-    },
-    {
-      "key": 2,
-      "value": "bogra",
-      "text": "Bogra"
-    }
-  ],
-  "rangpur": [
-    {
-      "key": 1,
-      "value": "dinajpur",
-      "text": "Dinajpur"
-    },
-    {
-      "key": 2,
-      "value": "kurigram",
-      "text": "Kurigram"
-    }
-  ],
-  "sylhet": [
-    {
-      "key": 1,
-      "value": "sylhet",
-      "text": "Sylhet"
-    },
-    {
-      "key": 2,
-      "value": "sunamganj",
-      "text": "Sunamganj"
     }
   ]
 }
