@@ -1,5 +1,12 @@
 {
-    "division" : [
+    "divisions" : [
         {"key" : 1, "value":"barishal", "text":"Barishal"}
+        {"key" : 2, "value":"chittagong", "text":"Chittagong"}
+        {"key" : 3, "value":"dhaka", "text":"Dhaka"}
+        {"key" : 4, "value":"khulna", "text":"Khulna"}
+        {"key" : 5, "value":"mymensingh", "text":"Mymensingh"}
+        {"key" : 6, "value":"rajshahi", "text":"Rajshahi"}
+        {"key" : 7, "value":"rangpur", "text":"Rangpur"}
+        {"key" : 8, "value":"sylhet", "text":"Sylhet"}
     ]
   }
