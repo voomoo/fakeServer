@@ -1,70 +1,140 @@
 {
-  "divisions" : [
-      {"key" : 1, "value":"barishal", "text":"Barishal"},
-      {"key" : 2, "value":"chittagong", "text":"Chittagong"},
-      {"key" : 3, "value":"dhaka", "text":"Dhaka"},
-      {"key" : 4, "value":"khulna", "text":"Khulna"},
-      {"key" : 5, "value":"mymensingh", "text":"Mymensingh"},
-      {"key" : 6, "value":"rajshahi", "text":"Rajshahi"},
-      {"key" : 7, "value":"rangpur", "text":"Rangpur"},
-      {"key" : 8, "value":"sylhet", "text":"Sylhet"}
+  "divisions": [
+    {
+      "key": 1,
+      "value": "barishal",
+      "text": "Barishal"
+    },
+    {
+      "key": 2,
+      "value": "chittagong",
+      "text": "Chittagong"
+    },
+    {
+      "key": 3,
+      "value": "dhaka",
+      "text": "Dhaka"
+    },
+    {
+      "key": 4,
+      "value": "khulna",
+      "text": "Khulna"
+    },
+    {
+      "key": 5,
+      "value": "mymensingh",
+      "text": "Mymensingh"
+    },
+    {
+      "key": 6,
+      "value": "rajshahi",
+      "text": "Rajshahi"
+    },
+    {
+      "key": 7,
+      "value": "rangpur",
+      "text": "Rangpur"
+    },
+    {
+      "key": 8,
+      "value": "sylhet",
+      "text": "Sylhet"
+    }
   ],
-  "districts" : [
+  "barishal": [
     {
-      "barishal": [
-        {"key" : 1, "value":"barishal", "text":"Barishal"},
-        {"key" : 2, "value":"barguna", "text":"Barguna"}
-
-      ]
+      "key": 1,
+      "value": "barishal",
+      "text": "Barishal"
     },
     {
-      "chittagong": [
-        {"key" : 1, "value":"bandarban", "text":"Bandarban"},
-        {"key" : 2, "value":"chandpur", "text":"Chandpur"}
-
-      ]
+      "key": 2,
+      "value": "barguna",
+      "text": "Barguna"
+    }
+  ],
+  "chittagong": [
+    {
+      "key": 1,
+      "value": "bandarban",
+      "text": "Bandarban"
     },
     {
-      "dhaka": [
-        {"key" : 1, "value":"dhaka", "text":"Dhaka"},
-        {"key" : 2, "value":"faridpur", "text":"Faridpur"}
-
-      ]
+      "key": 2,
+      "value": "chandpur",
+      "text": "Chandpur"
+    }
+  ],
+  "dhaka": [
+    {
+      "key": 1,
+      "value": "dhaka",
+      "text": "Dhaka"
     },
     {
-      "khulna": [
-        {"key" : 1, "value":"jessore", "text":"Jessore"},
-        {"key" : 2, "value":"khulna", "text":"Khulna"}
-
-      ]
+      "key": 2,
+      "value": "faridpur",
+      "text": "Faridpur"
+    }
+  ],
+  "khulna": [
+    {
+      "key": 1,
+      "value": "jessore",
+      "text": "Jessore"
     },
     {
-      "mymensingh": [
-        {"key" : 1, "value":"jamalpur", "text":"Jamalpur"},
-        {"key" : 2, "value":"sherpur", "text":"Sherpur"}
-
-      ]
+      "key": 2,
+      "value": "khulna",
+      "text": "Khulna"
+    }
+  ],
+  "mymensingh": [
+    {
+      "key": 1,
+      "value": "jamalpur",
+      "text": "Jamalpur"
     },
     {
-      "rajshahi": [
-        {"key" : 1, "value":"natore", "text":"Natore"},
-        {"key" : 2, "value":"bogra", "text":"Bogra"}
-
-      ]
+      "key": 2,
+      "value": "sherpur",
+      "text": "Sherpur"
+    }
+  ],
+  "rajshahi": [
+    {
+      "key": 1,
+      "value": "natore",
+      "text": "Natore"
     },
     {
-      "rangpur": [
-        {"key" : 1, "value":"dinajpur", "text":"Dinajpur"},
-        {"key" : 2, "value":"kurigram", "text":"Kurigram"}
-
-      ]
+      "key": 2,
+      "value": "bogra",
+      "text": "Bogra"
+    }
+  ],
+  "rangpur": [
+    {
+      "key": 1,
+      "value": "dinajpur",
+      "text": "Dinajpur"
     },
     {
-      "sylhet": [
-        {"key" : 1, "value":"sylhet", "text":"Sylhet"},
-        {"key" : 2, "value":"sunamganj", "text":"Sunamganj"}
-
-      ]
+      "key": 2,
+      "value": "kurigram",
+      "text": "Kurigram"
+    }
+  ],
+  "sylhet": [
+    {
+      "key": 1,
+      "value": "sylhet",
+      "text": "Sylhet"
+    },
+    {
+      "key": 2,
+      "value": "sunamganj",
+      "text": "Sunamganj"
     }
   ]
 }
